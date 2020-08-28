@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./Banner.jpg)
+![Banner](./Banner.JPG)
 
 
 <!-- Título -->
